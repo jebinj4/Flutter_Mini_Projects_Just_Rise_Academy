@@ -1,0 +1,46 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated files
+*.lock
+*.g.dart
+
+# Android
+android/local.properties
+
+# iOS
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+
+# Web
+web/.dart_tool/
+
+# Linux & Windows
+linux/flutter/
+windows/flutter/
+
+# Symbolic Links (macOS)
+.symlinks/
+
+# Firebase
+.firebase/
